@@ -1,0 +1,6 @@
+{
+  "url": "http://example.com",
+  "mail": {
+      "from": "'First Last' <name@example.com>"
+  }
+}
